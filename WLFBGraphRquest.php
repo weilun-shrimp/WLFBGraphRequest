@@ -17,7 +17,7 @@ class WLFBGraphRquest
     *   Package Info
     *   author : Wei-Lun Hsu
     *   author-email : gxh0181160809rp@gmail.com
-    *   github : 
+    *   github : https://github.com/weilun-shrimp/WLFBGraphRequest.git
     *   dev_for : 
     *           For those who get started use or learnning fb graph api php developer,
     *       apply instinctive code method in codding, reduce code rows and words.
@@ -28,7 +28,7 @@ class WLFBGraphRquest
     *       So, just enjoy it, I will open source in github.
     */
 
-    protected $app_id;
+    public $app_id;
     public $app_secret;
     public $defult_graphVersion;
 
